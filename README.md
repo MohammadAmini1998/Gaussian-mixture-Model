@@ -21,3 +21,16 @@ The "Mall Customers" dataset contains the following features:
 - Spending Score: Spending score of the customer
 
 You can download the dataset from [here](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python).
+
+### Results
+
+![509a778e-a082-41ce-bd81-2dc59c388ee6](https://github.com/MohammadAmini1998/Gaussian-mixture-Model/assets/49214384/d7dfb4dc-3d67-443c-bfcc-a3a659a9e87c)
+
+### Contributions and Feedback
+
+I welcome contributions, feedback, and suggestions for improvement! If you have any ideas, questions, or insights regarding this project, feel free to reach out and engage in discussions.
+
+Let's continue exploring the exciting possibilities of Machine Learning together! 🚀
+
+By the way, If you find this project helpful or interesting, please star the repository to show your support! 
+
